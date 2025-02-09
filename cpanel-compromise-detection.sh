@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Email address to notify about compromised accounts
-ADMIN_EMAIL="admin@yourdomain.com"
+ADMIN_EMAIL="hostinglagbe@gmail.com"
 
 # Log file for suspicious activity
 LOG_FILE="/var/log/cpanel-compromise-detection.log"
