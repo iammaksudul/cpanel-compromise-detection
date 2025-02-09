@@ -26,7 +26,7 @@ Ensure you have the following before running the script:
 ### 1. Clone or download this repository:
 
 ```bash
-git clone https://github.com/your-username/cpanel-compromise-detection.git
+git clone https://github.com/iammaksudul/cpanel-compromise-detection.git
 cd cpanel-compromise-detection
 ```
 
